@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.5a42b1c2.chunk.js",
-    "main.js.map": "/my-app/static/js/main.5a42b1c2.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.32344ad2.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.32344ad2.js.map",
-    "static/js/2.b9d4e9cb.chunk.js": "/my-app/static/js/2.b9d4e9cb.chunk.js",
-    "static/js/2.b9d4e9cb.chunk.js.map": "/my-app/static/js/2.b9d4e9cb.chunk.js.map",
-    "static/js/3.bda38a8b.chunk.js": "/my-app/static/js/3.bda38a8b.chunk.js",
-    "static/js/3.bda38a8b.chunk.js.map": "/my-app/static/js/3.bda38a8b.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/js/2.b9d4e9cb.chunk.js.LICENSE.txt": "/my-app/static/js/2.b9d4e9cb.chunk.js.LICENSE.txt",
-    "static/media/house-1.a18708fb.jpg": "/my-app/static/media/house-1.a18708fb.jpg",
-    "static/media/house-2.f6c91a12.jpg": "/my-app/static/media/house-2.f6c91a12.jpg",
-    "static/media/house-3.80f3236e.jpg": "/my-app/static/media/house-3.80f3236e.jpg",
-    "static/media/house-4.3457528d.jpg": "/my-app/static/media/house-4.3457528d.jpg",
-    "static/media/interior-1.950affab.jpg": "/my-app/static/media/interior-1.950affab.jpg",
-    "static/media/interior-2.6b1ff940.jpg": "/my-app/static/media/interior-2.6b1ff940.jpg"
+    "main.js": "/react-real-estate/static/js/main.5a42b1c2.chunk.js",
+    "main.js.map": "/react-real-estate/static/js/main.5a42b1c2.chunk.js.map",
+    "runtime-main.js": "/react-real-estate/static/js/runtime-main.e23397e9.js",
+    "runtime-main.js.map": "/react-real-estate/static/js/runtime-main.e23397e9.js.map",
+    "static/js/2.27f67873.chunk.js": "/react-real-estate/static/js/2.27f67873.chunk.js",
+    "static/js/2.27f67873.chunk.js.map": "/react-real-estate/static/js/2.27f67873.chunk.js.map",
+    "static/js/3.bda38a8b.chunk.js": "/react-real-estate/static/js/3.bda38a8b.chunk.js",
+    "static/js/3.bda38a8b.chunk.js.map": "/react-real-estate/static/js/3.bda38a8b.chunk.js.map",
+    "index.html": "/react-real-estate/index.html",
+    "static/js/2.27f67873.chunk.js.LICENSE.txt": "/react-real-estate/static/js/2.27f67873.chunk.js.LICENSE.txt",
+    "static/media/house-1.a18708fb.jpg": "/react-real-estate/static/media/house-1.a18708fb.jpg",
+    "static/media/house-2.f6c91a12.jpg": "/react-real-estate/static/media/house-2.f6c91a12.jpg",
+    "static/media/house-3.80f3236e.jpg": "/react-real-estate/static/media/house-3.80f3236e.jpg",
+    "static/media/house-4.3457528d.jpg": "/react-real-estate/static/media/house-4.3457528d.jpg",
+    "static/media/interior-1.950affab.jpg": "/react-real-estate/static/media/interior-1.950affab.jpg",
+    "static/media/interior-2.6b1ff940.jpg": "/react-real-estate/static/media/interior-2.6b1ff940.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32344ad2.js",
-    "static/js/2.b9d4e9cb.chunk.js",
+    "static/js/runtime-main.e23397e9.js",
+    "static/js/2.27f67873.chunk.js",
     "static/js/main.5a42b1c2.chunk.js"
   ]
 }
